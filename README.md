@@ -44,7 +44,9 @@ To-do list:
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
-Project based on official docummentation of Flask - https://flask.palletsprojects.com
+Project based on :
+* official docummentation of Flask - https://flask.palletsprojects.com
+* configuration of project - https://exploreflask.com/en/latest/configuration.html
 
 ## Contact
 Created by [@Boduch Karolina](boduch.karolina.a@gmail.com) - feel free to contact me!
