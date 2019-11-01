@@ -19,9 +19,9 @@
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python: version 3.6.4
+* Flask: version 1.1.1
+* Werkzeug: version 0.16.0
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
